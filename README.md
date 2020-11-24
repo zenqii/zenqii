@@ -5,7 +5,7 @@
 ---
 
 ## Informations
-
+<br>
 🏡 - I'm a house person
 📖 - I'm a high school student
 🔒 - I'm actually private person
