@@ -10,6 +10,7 @@
 💻 - I actually spend all my time with gadgets</br>
 
 ## Projects
+> I deleted some of my repos. I don't know why lol.
 
 [Flatipie](https://github.com/flatipie/flatipie) - An open source framework for building qt modern applications. I made this actually to deploy apps easily with python.
 
