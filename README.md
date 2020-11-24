@@ -2,14 +2,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=zenqii&show_icons=True&theme=calm">
 </h1>
 
----
-
 ## Informations
-<br>
-🏡 - I'm a house person
-📖 - I'm a high school student
-🔒 - I'm actually private person
-💻 - I actually spend all my time with gadgets
+
+🏡 - I'm a house person</br>
+📖 - I'm a high school student</br>
+🔒 - I'm actually private person</br>
+💻 - I actually spend all my time with gadgets</br>
 
 ## Projects
 
