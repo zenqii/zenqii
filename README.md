@@ -15,6 +15,13 @@
 <img src="images/c-programming.png" width="16" align="center"> - C/C++ (__I know few syntax__)</br>
 <img src="images/js.png" width="16" align="center"> - Javascript (__I'm still learning it__)
 
+## What topics I love?
+
+💻 - Programming</br>
+🎮 - Gaming</br>
+🧠 - Machine Learning</br>
+🕵️‍ - Hacking</br>
+🔌 - Networking</br>
 
 ## Projects
 > I deleted some of my repos. I don't know why lol.
