@@ -9,6 +9,13 @@
 🔒 - I'm actually private person</br>
 💻 - I actually spend all my time with gadgets</br>
 
+## What languages do I know?
+
+<img src="images/python-logo.png" width="16" align="center"> - Python (__All versions__)</br>
+<img src="images/c-programming.png" width="16" align="center"> - C/C++ (__I know few syntax__)</br>
+<img src="images/js.png" width="16" align="center"> - Javascript (__I'm still learning it__)
+
+
 ## Projects
 > I deleted some of my repos. I don't know why lol.
 
@@ -23,5 +30,5 @@ hscript - A powerfull programming language that aims to build and code easily wi
 </a>
 
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenqii&hide=css,html&layout=compact&theme=calm&card_width=350">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenqii&hide=css,html&layout=compact&theme=calm&card_width=350">
 </a>
