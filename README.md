@@ -1,5 +1,5 @@
 <h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=zenqii&show_icons=True&theme=calm&custom_title=Statistic&count_private=True&hide=issues">
+    <img src="https://github-readme-stats.vercel.app/api?username=zenqii&show_icons=True&theme=calm&custom_title=Statistic&count_private=True&hide=issues, contribs">
 </h1>
 
 ## Informations
