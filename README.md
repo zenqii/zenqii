@@ -12,8 +12,8 @@
 ## What languages do I know?
 
 <img src="images/python-logo.png" width="16" align="center"> - Python (__All versions__)</br>
-<img src="images/js.png" width="16" align="center"> - C/C++ (__I know few syntax__)</br>
-<img src="images/c-programming.png" width="16" align="center"> - Javascript (__I'm still learning it__)
+<img src="images/js.png" width="16" align="center"> - Javascript (__I know few syntax__)</br>
+<img src="images/c-programming.png" width="16" align="center"> - C/C++ (__I'm still learning it__)
 
 ## What topics I love?
 
