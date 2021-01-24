@@ -12,7 +12,7 @@
 ## What languages do I know?
 
 <img src="images/python-logo.png" width="16" align="center"> - Python</br>
-<img src="images/js.png" width="16" align="center"> - Javascript (__I know few syntax__)</br>
+<img src="images/js.png" width="16" align="center"> - Javascript</br>
 <img src="images/c-programming.png" width="16" align="center"> - C/C++ (__I'm still learning it__)
 
 ## What topics I love?
