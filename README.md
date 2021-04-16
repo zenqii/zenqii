@@ -24,13 +24,14 @@
 ## Projects
 > I deleted some of my repos. I don't know why lol.
 
-[Flatipie](https://github.com/flatipie/flatipie) - An open source framework for building qt modern applications. I made this actually to deploy apps easily with python.
-
+[Flatipie](https://github.com/flatipie/flatipie) - An open source framework for building qt modern applications. I made this actually to deploy apps easily with python.<br>
+[discli](https://github.com/znqi/discli) - A discord command line interface use for developing and hosting (heroku) discord bot written in python.<br>
+[Pixel Worlds API](https://github.com/znqi/pixelworldsapi) - A python wrapper for [**Pixel Worlds**](https://store.steampowered.com/app/636040/Pixel_Worlds_MMO_Sandbox/)' data.</br>
 #### Upcoming projects
 
-[Pie IDE](https://github.com/zenqii/pie) - A simple yet powerful, friendly-user **Python IDE** for beginners.</br>
-[Pixel Worlds API](https://github.com/zenqii/pixelworldsapi) - A python wrapper for [**Pixel Worlds**](https://store.steampowered.com/app/636040/Pixel_Worlds_MMO_Sandbox/)' data.</br>
-[Membrane](https://github.com/zenqii/membrane) - All in one tool for security researchers, penetration tester and hackers.</br>
+[citnet](https://github.com/zenqiproject/citnet) - TCP / UDP Networking library for python.</br>
+[retro](https://github.com/zenqiproject/retro) - A 2D wrapper for pygame to easily work with pygame.</br>
+[Opensec](https://github.com/serumsecurity/opensec) - All in one tool for security researchers, penetration tester and hackers.</br>
 hscript - A powerfull programming language that aims to build and code easily without any struggle. **(i'm planning it)**
 
 <a href="https://github.com/flatipie/Flatipie">
@@ -38,5 +39,5 @@ hscript - A powerfull programming language that aims to build and code easily wi
 </a>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenqii&hide=css,html&layout=compact&theme=calm&card_width=350">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znqi&hide=css,html&layout=compact&theme=calm&card_width=350">
 </a>
