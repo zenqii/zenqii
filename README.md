@@ -1,5 +1,5 @@
 <h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=znqi&show_icons=True&theme=calm&custom_title=Statistic&count_private=True&hide=issues,contribs">
+    <img src="https://github-readme-stats.vercel.app/api?username=znqi&show_icons=True&custom_title=Statistic&count_private=True&hide=issues,contribs">
 </h1>
 
 ## Informations
@@ -35,9 +35,9 @@
 hscript - A powerfull programming language that aims to build and code easily without any struggle. **(i'm planning it)**
 
 <a href="https://github.com/flatipie/Flatipie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flatipie&repo=flatipie&theme=calm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flatipie&repo=flatipie" />
 </a>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znqi&hide=css,html&layout=compact&theme=calm&card_width=350">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znqi&hide=css,html&layout=compact&card_width=350">
 </a>
