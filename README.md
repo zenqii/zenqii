@@ -32,7 +32,7 @@
 [citnet](https://github.com/zenqiproject/citnet) - TCP / UDP Networking library for python.</br>
 [retro](https://github.com/zenqiproject/retro) - A 2D wrapper for pygame to easily work with pygame.</br>
 [Opensec](https://github.com/serumsecurity/opensec) - All in one tool for security researchers, penetration tester and hackers.</br>
-hscript - A powerfull programming language that aims to build and code easily without any struggle. **(i'm planning it)**
+selenium - A powerfull programming language that aims to build and code easily without any struggle. **(i'm planning it)**
 
 <a href="https://github.com/flatipie/Flatipie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flatipie&repo=flatipie" />
