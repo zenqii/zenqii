@@ -5,6 +5,8 @@
 ## Informations
 > I changed again my username to znqi<br>
 
+> i'm trying to achieve 1000 commits in a year<br>
+
 🏡
 
 ## What languages do I know?
