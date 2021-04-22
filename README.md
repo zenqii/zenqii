@@ -40,10 +40,10 @@ selenium - A powerfull programming language that aims to build and code easily w
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flatipie&repo=flatipie" />
 </a>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znqi&hide=css,html&layout=compact&card_width=350">
-</a>
-
 <a href="https://github.com/serumstudio/microphone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serumstudio&repo=microphone" />
+</a>
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znqi&hide=css,html&layout=compact&card_width=350">
 </a>
