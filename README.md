@@ -36,14 +36,18 @@
 [Opensec](https://github.com/serumsecurity/opensec) - All in one tool for security researchers, penetration tester and hackers.</br>
 selenium - A powerfull programming language that aims to build and code easily without any struggle. **(i'm planning it)**
 
+## Here are some of my featured projects
+
+
 <a href="https://github.com/flatipie/Flatipie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flatipie&repo=flatipie" />
 </a>
-
 <a href="https://github.com/serumstudio/microphone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serumstudio&repo=microphone" />
 </a>
-
+<a href="https://github.com/serumstudio/face">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serumstudio&repo=face" />
+</a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znqi&hide=css,html&layout=compact&card_width=350">
 </a>
