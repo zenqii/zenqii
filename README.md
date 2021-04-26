@@ -49,5 +49,5 @@ selenium - A powerfull programming language that aims to build and code easily w
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=serumstudio&repo=face" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znqi&hide=css,html&layout=compact&card_width=350">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=znqi&hide=css&layout=compact&card_width=350">
 </a>
