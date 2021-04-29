@@ -3,9 +3,9 @@
 </h1>
 
 ## Informations
-> I changed again my username to znqi<br>
-
-> i'm trying to achieve 1000 commits in a year<br>
+> I'm trying to achieve 1000 commits in a year<br>
+- ~~500 commits / year~~
+- 1000 commits / year
 
 🏡
 
