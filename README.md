@@ -15,6 +15,5 @@
     Hey there, I'm <strong>zenqi</strong>(zen) or anything you want to call me.<br>I do programming stuff, Feel free to check my projects or even contribute on it!
 </div>
 <br>
-<div id="project" align="left">
-    <h2>My Projects</h2>
-</div>
+
+# Projects
