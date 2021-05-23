@@ -22,7 +22,7 @@ Here are some of my notable projects!
 - [Serum Microphone](https://serummicrophone.ml) - A free and open source text to speech that act as your microphone.
 - [Kith](https://kith.ml) - *Seek Happiness, Make it with Kith*. Yet another Discord bot that aims for those who needs friends!
 - [Discli](https://github.com/znqi/discli) - A boilerplate for discord.py with heroku integration for fast development
-- [Pixel Worlds API](https://github.com/znqi/pixelworlds) - Not really an API but a scraper for Pixel Worlds Data!
+- [Pixel Worlds API](https://github.com/znqi/pixelworldsapi) - Not really an API but a scraper for Pixel Worlds Data!
 
 <div id="about" align="right">
     <h1>Contact</h1>
