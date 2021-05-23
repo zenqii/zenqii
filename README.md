@@ -5,7 +5,7 @@
 <div align="center">
     <a href="">Home</a> |
     <a href="#projects">Projects</a> |
-    <a href="">About</a> |
+    <a href="#about">About</a> |
 </div>
 <br>
 
@@ -33,7 +33,7 @@ Here are some of my notable projects!
     
 </div>
 
-# About Me
+# About
 
 Good thing you're curious. I'm zenqi, zen or anything you want to call me. I do alot of stuffs.<br>
 I could say I'm more flexible with Python. Almost all of my projects were written in Python. <br>
