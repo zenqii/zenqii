@@ -13,7 +13,7 @@
 <!--     <img align="center" src="https://raw.githubusercontent.com/znqi/znqi/main/images/Hello.gif"> -->
     <img src="https://raw.githubusercontent.com/znqi/znqi/main/images/logo_test.gif">
     <br>
-    Hey there, I'm <strong>zenqi</strong> (zen) or anything you want to call me.<br>I do programming stuff, Feel free to check my projects or even contribute on it!
+    Hey there, I'm <strong>zenqi</strong> (zen) or anything you want to call me.<br>I do programming stuff, Feel free to check my projects or even contribute to it!
 </div>
 <br>
 
