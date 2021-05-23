@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align="center">
-    <a href="">Home</a> |
+    <a href="https://github.com/znqi">Home</a> |
     <a href="#projects">Projects</a> |
     <a href="#about">About</a> |
 </div>
