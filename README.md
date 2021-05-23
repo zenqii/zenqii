@@ -27,7 +27,7 @@
 > I deleted some of my repos. I don't know why lol.
 
 [Flatipie](https://github.com/flatipie/flatipie) - An open source framework for building qt modern applications. I made this actually to deploy apps easily with python.<br>
-[Kith](https://github.com/discordkith/kith)
+[Kith](https://github.com/discordkith/kith) - *Seek Happiness, Make it With Kith*. Kith is a anonymous chatting bot for discord.<br>
 [discli](https://github.com/znqi/discli) - A discord command line interface use for developing and hosting (heroku) discord bot written in python.<br>
 [Pixel Worlds API](https://github.com/znqi/pixelworldsapi) - A python wrapper for [**Pixel Worlds**](https://store.steampowered.com/app/636040/Pixel_Worlds_MMO_Sandbox/)' data.
 </br>
