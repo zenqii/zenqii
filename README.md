@@ -15,7 +15,9 @@
 
 <div align="center">
 <!--     <a href="https://github.com/znqi"><img align="center" src="https://raw.githubusercontent.com/znqi/znqi/main/images/Hello.gif" alt="Hello"></a> -->
-    <a href="https://github.com/znqi"><img src="https://raw.githubusercontent.com/znqi/znqi/main/images/logo_test.gif" width="400" alt="Hello"></a><br>
+<!--     <a href="https://github.com/znqi"><img src="https://raw.githubusercontent.com/znqi/znqi/main/images/logo_test.gif" width="400" alt="Hello"></a><br> -->
+    <a href="https://github.com/znqi"><img src="https://raw.githubusercontent.com/znqi/znqi/main/images/alien.gif" width="256" alt="Hello"></a><br>
+    <br>
     <div align="center">
         <a href="https://github.com/znqi">Home</a> |
         <a href="#projects">Projects</a> |
