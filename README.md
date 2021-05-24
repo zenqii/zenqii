@@ -22,11 +22,11 @@
 
 <div align="center">
     <h3>Languages and Tools</h3>
-    <img src="https://github.com/znqi/znqi/raw/main/images/python-logo.png" width="32" alt="Python">
-    <img src="https://github.com/znqi/znqi/raw/main/images/js.png" width="32" alt="Javascript">
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" width="32" alt="Visual Studio Code">
-    <img src="https://github.com/znqi/znqi/raw/main/images/affinitydesigner.png" width="32" alt="Affinity Designer">
-    <img src="https://github.com/znqi/znqi/raw/main/images/affinityphoto.png" width="32" alt="Affinity Photo">
+    <a href="https://python.org"><img src="https://github.com/znqi/znqi/raw/main/images/python-logo.png" width="32" alt="Python"></a>
+    <a href="https://www.javascript.com/"><img src="https://github.com/znqi/znqi/raw/main/images/js.png" width="32" alt="Javascript"></a>
+    <a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" width="32" alt="Visual Studio Code"></a>
+    <a href="https://affinity.serif.com/en-gb/"><img src="https://github.com/znqi/znqi/raw/main/images/affinitydesigner.png" width="32" alt="Affinity Designer"></a>
+    <a href="https://affinity.serif.com/en-gb/"><img src="https://github.com/znqi/znqi/raw/main/images/affinityphoto.png" width="32" alt="Affinity Photo"></a>
 </div>
 
 # Projects
