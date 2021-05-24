@@ -46,7 +46,7 @@ Here are some of my notable projects!
     <a href="https://github.com/znqi" tooltip="GitHub"><img src="https://github.com/znqi/znqi/raw/main/images/githubb.png" width="32"></a>
     <a href="https://twitter.com/serumstudio" tooltip="Twitter"><img src="https://github.com/znqi/znqi/raw/main/images/twitter.gif" width="32"></a>
     <a href="https://www.youtube.com/channel/UC6te9dtFi2HpEExH6QRwSoA" tooltip="Youtube"><img src="https://github.com/znqi/znqi/raw/main/images/yt.png" width="32"></a>
-    <a href="https://discord.gg/e4ygDyK6rg" tooltip="Discord"><img src="https://github.com/znqi/znqi/raw/main/images/discord.png" width="32"></a>
+    <a href="https://discord.gg/e4ygDyK6rg" tooltip="Discord"><img src="https://github.com/znqi/znqi/raw/main/images/dc.png" width="32"></a>
     
 </div>
 
