@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="https://github.com/znqi/znqi/raw/main/images/wave%20(1).svg" >
     <img src="https://raw.githubusercontent.com/znqi/znqi/main/images/logo.png" />
     <br>
     <a href="https://github.com/znqi"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="150" alt="builtwithlove" /></a>
@@ -52,3 +53,4 @@ I could say I'm more flexible with Python. Almost all of my projects were writte
 I'm still a student and part time freelancer. I do freelancing services for discord by creating<br>
 Bots, Websites and more. Backend is one of my main skills in web development. I'm not good at<br>
 Front end stuff, lmao. 
+<img align="center" src="https://github.com/znqi/znqi/raw/main/images/wave.svg">
