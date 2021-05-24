@@ -25,6 +25,7 @@
     <img src="https://github.com/znqi/znqi/raw/main/images/js.png" width="32" alt="Javascript">
     <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" width="32" alt="Visual Studio Code">
     <img src="https://github.com/znqi/znqi/raw/main/images/affinitydesigner.png" width="32" alt="Affinity Designer">
+    <img src="https://github.com/znqi/znqi/raw/main/images/affinityphoto.png" width="32" alt="Affinity Photo">
 </div>
 
 # Projects
