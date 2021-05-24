@@ -57,7 +57,7 @@ Here are some of my notable projects!
 
 Good thing you're curious. I'm zenqi, zen or anything you want to call me. I do alot of stuffs.<br>
 I could say I'm more flexible with Python. Almost all of my projects were written in Python. <br>
-I'm still a student and part time freelancer. I do freelancing services for discord by creating<br>
+I'm still a student. I do free services for Discord by creating<br>
 **Bots**, **Websites** and more. Backend is one of my main skills in web development. I'm not good at<br>
 Front end stuff, lmao. 
 <img align="center" src="https://github.com/znqi/znqi/raw/main/images/wave.svg">
