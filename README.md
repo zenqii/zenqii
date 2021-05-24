@@ -14,7 +14,8 @@
 
 <div align="center">
 <!--     <a href="https://github.com/znqi"><img align="center" src="https://raw.githubusercontent.com/znqi/znqi/main/images/Hello.gif" alt="Hello"></a> -->
-    <a href="https://github.com/znqi"><img src="https://raw.githubusercontent.com/znqi/znqi/main/images/logo_test.gif" alt="Hello"></a>
+    <a href="https://github.com/znqi"><img src="https://raw.githubusercontent.com/znqi/znqi/main/images/logo_test.gif" alt="Hello"></a><br>
+    <a href="https://github.com/znqi"><img src="https://komarev.com/ghpvc/?username=znqi&color=3cb372"></a>
     <br>
     Hey there, I'm <strong>zenqi</strong> (zen) or anything you want to call me.<br>I do programming stuff, Feel free to check my projects or even contribute to it!
 </div>
