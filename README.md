@@ -1,5 +1,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/znqi/znqi/main/images/logo.png" />
+    <br>
+    <a href="https://github.com/znqi"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="150" alt="builtwithlove" /></a>
 </div>
 <br>
 <div align="center">
