@@ -53,7 +53,7 @@ Here are some of my notable projects!
 </div>
 
 # About
-<img src="https://forthebadge.com/images/badges/made-with-python.svg" width="150">
+<a href="https://github.com/znqi"><img src="https://forthebadge.com/images/badges/made-with-python.svg" width="150"></a>
 
 Good thing you're curious. I'm zenqi, zen or anything you want to call me. I do alot of stuffs.<br>
 I could say I'm more flexible with Python. Almost all of my projects were written in Python. <br>
