@@ -19,6 +19,14 @@
 </div>
 <br>
 
+<div align="center">
+    <h3>Languages and Tools</h3>
+    <img src="https://github.com/znqi/znqi/raw/main/images/python-logo.png" width="32" alt="Python">
+    <img src="https://github.com/znqi/znqi/raw/main/images/js.png" width="32" alt="Javascript">
+    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" width="32" alt="Visual Studio Code">
+    <img src="https://github.com/znqi/znqi/raw/main/images/affinitydesigner.png" width="32" alt="Affinity Designer">
+</div>
+
 # Projects
 
 Here are some of my notable projects!
