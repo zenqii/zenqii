@@ -53,8 +53,8 @@ Here are some of my notable projects!
 <div id="about" align="right">
     <h1>Contact</h1>
     <p>You can contact me via email: <strong>zenqipw@gmail.com</strong>. But please take note that <br>
-        I'm not very active, and I'm not suggesting you to cantact me via email. You can contact me<br>
-        on Discord. Right now, I'm currently having some issues if you want to contact me email me directly.
+        I'm not very active on any email stuff as well as other social platforms like twitter, instagram and more.<br>
+        Contact me directly on discord: <strong>Zenqi#0231</strong>.
     </p>
     <a href="https://github.com/znqi" tooltip="GitHub"><img src="https://github.com/znqi/znqi/raw/main/images/githubb.png" width="32"></a>
     <a href="https://twitter.com/serumstudio" tooltip="Twitter"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="32"></a>
