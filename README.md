@@ -11,7 +11,6 @@
     <a href="#about">About</a> |
 </div>
 
-
 <br> -->
 
 <div align="center">
