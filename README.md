@@ -10,7 +10,6 @@
     <a href="#projects">Projects</a> |
     <a href="#about">About</a> |
 </div>
-
 <br> -->
 <div align="center">
     <a href="https://github.com/znqi"><img align="center" src="https://raw.githubusercontent.com/znqi/znqi/main/images/Hello.gif" alt="Hello"></a><br>
