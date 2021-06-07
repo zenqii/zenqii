@@ -73,4 +73,3 @@ I'm still a student. I do free services for Discord by creating<br>
 Front end stuff, lmao. 
 <img align="center" src="https://github.com/znqi/znqi/raw/main/images/wave.svg">
 
-
