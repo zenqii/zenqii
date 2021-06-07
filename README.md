@@ -35,7 +35,7 @@
     <h3>Languages and Tools</h3>
     <a href="https://python.org"><img src="https://github.com/znqi/znqi/raw/main/images/python-logo.png" width="32" alt="Python"></a>
     <a href="https://www.javascript.com/"><img src="https://github.com/znqi/znqi/raw/main/images/js.png" width="32" alt="Javascript"></a>
-    <a href="#"><img src="https://img.favpng.com/23/10/7/c-programming-language-logo-microsoft-visual-studio-net-framework-png-favpng-WLLTMqZhSPAk9q3DTh993fZnh.jpg" width="32"></a>
+    <a href="#"><img src="https://c0.klipartz.com/pngpicture/328/221/sticker-png-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-magenta-computer-programming-programming-language.png" width="32"></a>
     <a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" width="32" alt="Visual Studio Code"></a>
     <a href="https://visualstudio.microsoft.com/downloads/"><img src="https://img.icons8.com/color/452/visual-studio.png" width="32" alt="Visual Studio"></a>
     <a href="https://affinity.serif.com/en-gb/"><img src="https://github.com/znqi/znqi/raw/main/images/affinitydesigner.png" width="32" alt="Affinity Designer"></a>
