@@ -12,10 +12,11 @@
 </div>
 <br> -->
 <div align="center">
-    <a href="https://github.com/znqi"><img align="center" src="https://raw.githubusercontent.com/znqi/znqi/main/images/Hello.gif" alt="Hello"></a><br>
+    <img src="https://lanyard-profile-readme.vercel.app/api/653200123668725790" alt="Zenqi"></a>
+<!--     <a href="https://github.com/znqi"><img align="center" src="https://raw.githubusercontent.com/znqi/znqi/main/images/Hello.gif" alt="Hello"></a><br> -->
 <!--     <a href="https://github.com/znqi"><img src="https://raw.githubusercontent.com/znqi/znqi/main/images/logo_test.gif" width="400" alt="Hello"></a><br> -->
 <!--     <a href="https://github.com/znqi"><img src="https://raw.githubusercontent.com/znqi/znqi/main/images/alien.gif" width="256" alt="Hello"></a><br> -->
-    <a href=""><img src="https://spotifynowplaying.vercel.app/api/spotify-playing"></a>
+<!--     <a href=""><img src="https://spotifynowplaying.vercel.app/api/spotify-playing"></a> -->
     <br>
     <div align="center">
         <a href="https://github.com/znqi">Home</a> |
